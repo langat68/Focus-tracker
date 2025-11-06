@@ -1,6 +1,6 @@
 // Timer.tsx
 import React from 'react';
-import './Timer.scss';
+//import './Timer.scss';
 
 const Timer: React.FC = () => {
     return (

@@ -1,6 +1,6 @@
 // FocusInput.tsx
 import React from 'react';
-import './FocusInput.scss';
+//import './FocusInput.scss';
 
 const FocusInput: React.FC = () => {
     return (
